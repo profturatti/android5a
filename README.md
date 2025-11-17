@@ -4,9 +4,9 @@ PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS EM ANDROID
 
 ## Projeto extensionista
 
-[Roteiro mínimo](https://github.com/profturatti/android2a/blob/main/roteiroMinimo.md) | 
+[Roteiro mínimo](https://github.com/profturatti/android5a/blob/main/roteiroMinimo.md) | 
 [Documentação Necessária](https://github.com/profturatti/projetoMovel) | 
-[Exemplos](https://github.com/profturatti/android2a/tree/main/exemplos) |
+[Exemplos](https://github.com/profturatti/android5a/tree/main/exemplos) |
 
 |  DATA  | Descrição
 |--------|--------
